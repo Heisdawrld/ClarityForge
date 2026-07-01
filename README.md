@@ -93,10 +93,10 @@ pnpm --filter api dev
 - [ ] Calibration dashboard
 
 ### Phase 4: Polish & Launch
-- [ ] Simulation engine
-- [ ] Export system (PDF reports)
-- [ ] Performance optimization
-- [ ] Monitoring & observability
+- [x] Simulation engine (Monte Carlo, sensitivity analysis)
+- [x] Export system (Markdown, JSON, collaborative links)
+- [x] Performance optimization (caching, rate limiting)
+- [x] Monitoring & observability (Prometheus metrics, health checks)
 
 ## License
 
